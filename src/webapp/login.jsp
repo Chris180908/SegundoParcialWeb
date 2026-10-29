@@ -22,6 +22,8 @@
     <h1>Login</h1>
     <div class="container">
     Ingresa tu usuario <input type = text name= "ola">
+    <br><br>
+    Ingresa tu contraseña <input type = text name= "ola1">
     <br>
     <a href="usuarios.jsp" class="btn btn-secondary"> iniciar sesión </a>
     </div>
